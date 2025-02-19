@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>I'm Currently Learning...</h2>
+<h3>I'm Currently Learning...</h3>
 
 ![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZnaGVrZGU0eXp4OWhjNG02dG9nZjNuNjMwa29ybmZoOTF5dWhlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif)
 
