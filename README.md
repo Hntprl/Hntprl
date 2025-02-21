@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h3>I'm Currently Learning...</h3>
 
-![Cool GIF]([https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZnaGVrZGU0eXp4OWhjNG02dG9nZjNuNjMwa29ybmZoOTF5dWhlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6cnE3aHp3amo0cXFhdW9kNXJjbnA1d3gydjZoZnN1Yml2dnAyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif))
+![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6cnE3aHp3amo0cXFhdW9kNXJjbnA1d3gydjZoZnN1Yml2dnAyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdellahmarof@gmail.com) 
